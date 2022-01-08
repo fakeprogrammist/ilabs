@@ -1,0 +1,16 @@
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.exe
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.deps.json
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.runtimeconfig.json
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.dll
+C:\Users\alisa\source\repos\Ilab3\Ilab3\bin\Debug\netcoreapp3.1\Ilab3.pdb
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.Form1.resources
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.dll
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.pdb
+C:\Users\alisa\source\repos\Ilab3\Ilab3\obj\Debug\netcoreapp3.1\Ilab3.genruntimeconfig.cache

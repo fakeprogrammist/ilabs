@@ -1,0 +1,8 @@
+C:\Users\alisa\source\repos\ilab9\ilab9\bin\Debug\ilab9.dll
+C:\Users\alisa\source\repos\ilab9\ilab9\bin\Debug\ilab9.pdb
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.UserControl1.resources
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.dll
+C:\Users\alisa\source\repos\ilab9\ilab9\obj\Debug\ilab9.pdb
